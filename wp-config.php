@@ -21,16 +21,16 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'emerjsur_wp243' );
+define( 'DB_NAME', 'parkwebsitedb' );
 
 /** MySQL database username */
-define( 'DB_USER', 'emerjsur_wp243' );
+define( 'DB_USER', 'parkdb@dm-park-website-mysqldbserver' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'Mp67)4.SZ8' );
+define( 'DB_PASSWORD', '81%DUL!9M$lm' );
 
 /** MySQL hostname */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', 'dm-park-website-mysqldbserver.mysql.database.azure.com' );
 
 /** Database Charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
